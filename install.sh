@@ -1,3 +1,4 @@
 #!/bin/bash
 
-# Author: John Doe, 2020
+# Author: John Doe
+# Copyright, 2020
